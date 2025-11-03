@@ -32,7 +32,7 @@ Hi,
 
 Hope you are doing well.
 
-I’m reaching out to you regarding Software development Engineer opportunities at ${company}. I graduated from NIT Hamirpur with a degree in Computer Science and Engineering and have two years of experience as a Software Engineer at SearchUnify. 
+I came across your profile and learned that you’re hiring for roles at ${company}, so I'm reaching out to you regarding Software development Engineer opportunities at ${company}. I graduated from NIT Hamirpur with a degree in Computer Science and Engineering and have two years of experience as a Software Engineer at SearchUnify. 
 
 
 My technical expertise spans programming languages like C++, Python, JavaScript, and Dart, alongside frameworks such as ReactJS, Flutter, Node.js, Express, and React Native. I’m proficient with databases including  MongoDB, Postgres, Elastic and have worked in AI Domain. have strong knowledge of full-stack development, Agentic AI and app development and docker.
