@@ -87,7 +87,7 @@ const sendColdMails = async () => {
           const mailBody = generateColdEmailBody(mail.company);
 
           // Send the email
-          await sendEmail(mail.email, mailBody);
+          await sendEmail(mail.email, mailBody, mail.company);
           logger.info(`Email sent to ${mail.email}`);
 
           // Collect email for bulk update
